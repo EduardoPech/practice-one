@@ -2,3 +2,6 @@ Es es un documento
 que va ser nuevo
 
 Este es un nuevo cambio en el doc 2
+
+
+Cambio ahora
